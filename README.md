@@ -1,24 +1,10 @@
 
 ---
 
-<div align="left">
-  <div style="display: flex;">
-    <div>
-      Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-:muscle:  I'm CARLOS J S BEZERRA <strong>CARLOS</strong>.
-
-:heart:  I'm a lover of open-source projects.
-
-:fire:  I'm currently learning React.js, Node.JS, Javascript and Typescript.
-    </div>
-    <img src="https://blush.design/api/download?shareUri=8Mg9gJZZl&c=Hair_0%7E110b05_Skin_0%7Edb8c5c&w=800&h=800&fm=png" alt="carlos-j-s-bezerra" width="200"/>
-  </div>
-</div>
-
-<!-- <div align="right">
+<div align="right">
   <img align="right" src="https://blush.design/api/download?shareUri=8Mg9gJZZl&c=Hair_0%7E110b05_Skin_0%7Edb8c5c&w=800&h=800&fm=png" alt="carlos-j-s-bezerra" width="200"/>
-</div> -->
+</div>
 
 Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
