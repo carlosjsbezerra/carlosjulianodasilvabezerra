@@ -1,7 +1,6 @@
 
 ---
 
-
 <div align="right">
   <img align="right" src="https://blush.design/api/download?shareUri=8Mg9gJZZl&c=Hair_0%7E110b05_Skin_0%7Edb8c5c&w=800&h=800&fm=png" alt="carlos-j-s-bezerra" width="200"/>
 </div>
